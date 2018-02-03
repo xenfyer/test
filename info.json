@@ -1,0 +1,10 @@
+{
+	"minecraftVersion": "1.12.2",
+	"serverUrl": "http://localhost/yo/server.jar",
+	"minecraftHash": "b01d58a9a41eff82d8f0297f84f5b944",
+	"accessTransforms": "bukkit-1.12.2.at",
+	"classMappings": "bukkit-1.12.2-cl.csrg",
+	"memberMappings": "bukkit-1.12.2-members.csrg",
+	"packageMappings": "package.srg",
+	"decompileCommand": "java -jar BuildData/bin/fernflower.jar -dgs=1 -hdc=0 -asc=1 -udv=0 {0} {1}"
+}
