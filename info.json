@@ -1,7 +1,7 @@
 {
 	"minecraftVersion": "1.12.2",
 	"serverUrl": "http://localhost/yo/server.jar",
-	"minecraftHash": "0F86DBC7C5188A8C9D5E59FB3105E8F9",
+	"minecraftHash": "0f86dbc7c5188a8c9d5e59fb3105e8f9",
 	"accessTransforms": "bukkit-1.12.2.at",
 	"classMappings": "bukkit-1.12.2-cl.csrg",
 	"memberMappings": "bukkit-1.12.2-members.csrg",
